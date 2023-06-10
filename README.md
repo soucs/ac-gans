@@ -1,4 +1,4 @@
-# ac-gans
+# AC-GANS
 
 
 ## ac_gans.ipynb
