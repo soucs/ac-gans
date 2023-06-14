@@ -14,7 +14,12 @@
 * ac-gans trained on cifar10
 * Using model architecture given in paper
 
-## ac_gans_with_ssim_loss.ipynb
+## improvement_fmnist.ipynb
+* Has ssim function to calculate ssim score.
+* Mean of ssim-score added as loss.
+* Testing - ssim scores of generated images.
+
+## improvement_cifar10.ipynb
 * Has ssim function to calculate ssim score.
 * Mean of ssim-score added as loss.
 * Testing - ssim scores of generated images.
